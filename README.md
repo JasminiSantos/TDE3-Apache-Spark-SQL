@@ -1,7 +1,7 @@
 # Big Data Processing with Apache Spark SQL
 
 <p>
-You and your team were hired to process data using MapReduce. Your company has access to a
+You and your team were hired to process data using SparkSQL. Your company has access to a
 dataset with commercial transactions between countries during the past 30 years. For each transaction,
 the dataset contains the following variables:
 </p>
